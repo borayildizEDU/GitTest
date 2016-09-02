@@ -18,8 +18,13 @@ To send desktop:
 @web master: conflict01
 >>>>>>> origin/master
 
+<<<<<<< HEAD
 
 
 
 
 @desktop master: merge01
+=======
+@web master: merge01
+
+>>>>>>> origin/master
