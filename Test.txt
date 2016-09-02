@@ -12,3 +12,5 @@ To send desktop:
 1- Commit the changes
 2- Sync from desktop
 
+@web master: conflict01
+
