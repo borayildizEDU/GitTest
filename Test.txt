@@ -12,5 +12,9 @@ To send desktop:
 1- Commit the changes
 2- Sync from desktop
 
+<<<<<<< HEAD
 @desktop master: conflict01
+=======
+@web master: conflict01
+>>>>>>> origin/master
 
