@@ -1,2 +1,7 @@
 @desktop master: update01
 @web     master: update02
+@desktop master:
+---------------
+To send web:
+1- Commit the changes
+2- Sync
