@@ -1,0 +1,16 @@
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+http://gitref.org/basic/
+
+
+- Only use <git push> and <git pull> to synchronise with repo [Sync in GUI]
+
+- If you just want to go back and forth the history, do it using <git checkout>
+
+- See the revision id using <git history>
+
+- To get back to latest revision, use <git checkout master>
+
+- Before doing any command, always make yourself do <git status>. make sure that git status result is contain text working directory clean.
+
+- If you need to revert a file to it's previous revision, you can do it with <git merge>. Before doing it to a file, test it first with <git diff>. 
+Ex: git diff rev1:rev2 filename
