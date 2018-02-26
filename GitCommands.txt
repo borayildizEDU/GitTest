@@ -14,3 +14,10 @@ http://gitref.org/basic/
 
 - If you need to revert a file to it's previous revision, you can do it with <git merge>. Before doing it to a file, test it first with <git diff>. 
 Ex: git diff rev1:rev2 filename
+
+
+
+
+revert to specific state:
+git revert --no-commit 0766c053..HEAD
+git commit
